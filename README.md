@@ -2,7 +2,7 @@
 
 
 
-Python developer. I build small projects and publish them here.
+Python developer.
 
 
 
